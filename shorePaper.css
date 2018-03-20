@@ -41,7 +41,7 @@ body, html {
 	float: right;
 }
 .hero-image {
-	background-image: url('../images/outSide.jpg');
+	background-image: url('images\outSide.jpg');
 	max-width: 100%;
 	height: 100%;
 	padding: 0;
@@ -511,10 +511,5 @@ h2.servHeading {
 		width: 300px;
 }
 }
-/** {
-  background: #000 !important;
-  color: #0f0 !important;
-  outline: solid #f00 1px !important;
-}*/
 
 
